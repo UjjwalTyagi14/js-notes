@@ -1,0 +1,13 @@
+*{
+  background-color: black;
+  color: white;
+
+}
+button{
+  background-color: red;
+  color: white;
+}
+#spn{
+  display: none;
+
+}
